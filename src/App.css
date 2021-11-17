@@ -1,8 +1,7 @@
 .todo-list {
-  margin: 2em auto 0 auto;
-  padding: 2em 0;
-  background: #fff;
-  width: 80%;
+  padding: 2em 1em;
+  /* background: #fff; */
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
